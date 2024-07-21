@@ -99,7 +99,7 @@ let twoArr = [
     }
   }
 
-  console.log(combArr);
+  // console.log(combArr);
 
 
   let arr6 =[1,2,3,4]
