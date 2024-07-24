@@ -6,6 +6,45 @@
     <title>Event Handling</title>
 </head>
 <body>
+    <button>Click me</button>
+    <p>Shanee Patel</p>
+    <img src="https://media.istockphoto.com/id/2065268859/photo/beautiful-bhimtal-lake-is-a-lake-in-the-town-of-bhimtal-in-the-indian-state-of-uttarakhand.jpg?b=1&s=612x612&w=0&k=20&c=EdKm1sDbiF7fE_kX705wrTmNZgVZgkRB20KyYK1avE8=">
+    <div id="form" style="background-color: aliceblue;">
+        <h1 id="h1" >Task 3</h1>
+        <p>Onkeydown</p>
+        <input type="text" onkeydown= "document.getElementById('form').style.backgroundColor =this.value">
+        <p>Onkeyup</p>
+        <input type="text" onkeyup="myfunction()">
+
+        <form id="myForm">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+
+        <label for="selectOption">Choose the options:</label>
+        <select id="selectOption">
+            <option value="option1">Optio1</option>
+            <option value="option2">Option2</option>
+            <option value="option3">Option3</option>
+            <option value="option4">Option4</option>
+        </select>
+        <p id="optionSelcted">Select the above option</p>
+
+        <ul id="list">
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+        </ul>
+        <button id="addItemButton">Add New Item</button>
+    </div>
     <script src="Script.js"></script>
 </body>
 </html>
+
+
