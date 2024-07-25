@@ -1,6 +1,4 @@
-# 30-Day JavaScript Challenge
-
-Completed solutions for the JavaScript 30 Day Challenge.
+# 30DAYS_JS_CHALLENGES
 
 ## Day_01: Variable and Data Type
 
@@ -13,8 +11,8 @@ Completed solutions for the JavaScript 30 Day Challenge.
 
 - Understand and use arithmetic operators to perform basic calculations.
 - Use assignment operators to modify variables.
-- Compare values using comparison operators.
-- Combine conditions using logical operators.
+- Compare values using `comparison operators`.
+- Combine conditions using `logical operators`.
 - Use the ternary operator for concise conditional expressions.
 
 ## Day_03: Control Structures
@@ -22,7 +20,7 @@ Completed solutions for the JavaScript 30 Day Challenge.
 - Implement and understand basic `if-else` control flow.
 - Use nested `if-else` statements to handle multiple conditions.
 - Utilize `switch` cases for control flow based on specific values.
-- Apply the ternary operator for concise condition checking.
+- Apply the `ternary operator` for concise condition checking.
 - Combine multiple conditions to solve more complex problems.
 
 ## Day_04: Loops
@@ -35,9 +33,9 @@ Completed solutions for the JavaScript 30 Day Challenge.
 
 ## Day_05: Functions
 
-- Understand and define functions using function declarations, expressions, and arrow functions.
+- Understand and define functions using function declarations, expressions, and `arrow` functions.
 - Use function parameters and default values effectively.
-- Create and utilize higher-order functions.
+- Create and utilize `higher-order` functions.
 - Apply functions to solve common problems and perform calculations.
 - Enhance code reusability and organization using functions.
 
@@ -57,7 +55,7 @@ Completed solutions for the JavaScript 30 Day Challenge.
 
 ## Day_08: ES6 + Features
 
-- understand and use template literals for string interpolation and multi-line strings
+- understand and use `template literals` for string interpolation and multi-line strings
 - apply destructuring to extract value from arrays and object
 - utilize spread and rest operators for arrya manipulation and function arguments
 - define function with default parameter
@@ -65,33 +63,39 @@ Completed solutions for the JavaScript 30 Day Challenge.
 
 ## Day_09: DOM Manipulation
 
--Select and manipulate DOM elements using javascript
--Create and append new elements to the DOM.
--Remove elements from the DOM.
--Modify attributes and classws of HTML elements.
--Add and handle events to make web pages interactive.
+- Select and manipulate `DOM elements` using javascript
+- Create and append new elements to the DOM.
+- Remove elements from the DOM.
+- Modify attributes and classws of `HTML elements`.
+- Add and handle events to make web pages interactive.
 
-## Day_10: Event Handling 
+## Day_10: Event Handling
 
--Add and handle basic events like click, double-click, mouseover.mouseout, keydown, and keyup.
--Understand and handle from events.
--Implement event delegation to manage events on dynamically added elements.
--Make web pages interactive by responding to various user actions.
+- Add and handle basic events like `click`, `double-click`, `mouseover`, `mouseout`, `keydown`, and `keyup`.
+- Understand and handle from events.
+- Implement event delegation to manage events on dynamically added elements.
+- Make web pages interactive by responding to various user actions.
 
 ## Day_11: Promises and async:await
 
--Understand and create promises, including handling resolved and rejected states.
--Chain multiple promises to perform sequential asynchronous operations.
--Use async/await to handle asynchronous code more readably.
--Fetch data from public APIs using both promises and async/await.
--Manage multiple concurrent promises using Promise.all and Promise.race.
+- Understand and create `promises`, including handling resolved and rejected states.
+- Chain multiple promises to perform sequential asynchronous operations.
+- Use `async/await` to handle asynchronous code more readably.
+- Fetch data from public APIs using both promises and async/await.
+- Manage multiple concurrent promises using `Promise.all` and `Promise.race`.
 
 ## Day_12: Error Handling
 
--Understand and implement basic error handling using try-catch blocks.
--Use finallly blocks to execute code regardless of the try-catch outcome.
--Create and use custom error classes.
--Handle errors in promises using .catch() and within async functions using try-catch.
--Implement graceful error handling when making network requests with the fetch API
+- Understand and implement basic error handling using `try-catch` blocks.
+- Use `finallly blocks` to execute code regardless of the try-catch outcome.
+- Create and use custom error classes.
+- Handle errors in promises using `.catch()` and within async functions using try-catch.
+- Implement graceful error handling when making network requests with the fetch API
 
 ## Day_13: Modules
+
+- Create and export functions, objects, and constants using modules.
+- Import modules using named and default imports.
+- Use third-party modules installed via `npm`.
+- Understand the basics of module bundling (optional).
+
