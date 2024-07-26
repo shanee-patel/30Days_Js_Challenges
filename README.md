@@ -99,3 +99,10 @@
 - Use third-party modules installed via `npm`.
 - Understand the basics of module bundling (optional).
 
+## Day_14: Classes
+
+- Define and use classes with properties and methods.
+- Implement `inheritance` to extend classes.
+- Utilize `static` methods and properties.
+- Apply `getters` and `Setters` for `Encapsulation`.
+- Understand and use private fields in classes(optional).
