@@ -73,7 +73,7 @@ maxNumber(4,2);
  // task 6: write an arrow function to check if a string contains a specific charcter and return a boolean value
 
  const containsChar = (str, char) => str.includes(char);
-console.log(containsChar("hello", "s"))
+console.log(containsChar("hello", "n"))
 
 //Activity 4 Function Parameters and Default Values
 //task 7: write a arrow function that take two parameter and reutrn their product procide a default value for the second parameter
