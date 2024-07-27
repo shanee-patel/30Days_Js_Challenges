@@ -36,7 +36,7 @@ let value = 1;
 do {
   console.log(value);
   value++;
-} while (value <= 5);
+} while (value <= 6);
 
 //task 6: write a program to calculate the factoirial of using a do.... whilteloop
 
