@@ -32,7 +32,7 @@ class newPerson{
   }
 }
 
-const person2 = new newPerson("Shanee",22)
+const person2 = new newPerson("Shanee",26)
 console.log(person2)
 console.log(person2.updatedAge(24));
 
