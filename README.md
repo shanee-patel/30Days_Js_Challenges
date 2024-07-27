@@ -106,3 +106,10 @@
 - Utilize `static` methods and properties.
 - Apply `getters` and `Setters` for `Encapsulation`.
 - Understand and use private fields in classes(optional).
+
+## Day_15: Closures
+
+- Understand and create closures in javascript.
+- Use closures to maintain private state and create encapsulated modules.
+- Apply closures in practical scenarios like genrating unique Ids and memoization.
+- Use closures in loops to capture and use variables correctly.
