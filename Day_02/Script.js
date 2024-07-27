@@ -4,7 +4,7 @@ let number1 = 1 + 2
 console.log(number1);
 
 //Task 2: Write a program to subtract two numbers and log the resilut to the console
-let number2 = 4 - 1
+let number2 = 14 - 1
 console.log(number2);
 
 //Task 3: Write a program to Multiply two numbers and log the resilut to the console
