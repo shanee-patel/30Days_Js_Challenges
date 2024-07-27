@@ -34,7 +34,7 @@ if (a > b && a > c) {
 let num = 2;
 switch (num) {
   case 1:
-    console.log("Monday");
+    console.log("Sonday");
     break;
   case 2:
     console.log("Monday");
