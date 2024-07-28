@@ -33,7 +33,7 @@ function sumAllArray(array) {
   if (!array.length) return 0;
   return array[0] + sumAllArray(array.slice(1));
 } 
-console.log("Sum of all array elements is:", sumAllArray(number));
+console.log("Sum of all array elements is:", sumAllArray([1,2,3,4,5]));
 
 //Task 4: Write a recursive to find the maximum element in an array. Log the result for a few test cases.
 
