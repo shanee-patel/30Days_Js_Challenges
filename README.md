@@ -109,7 +109,14 @@
 
 ## Day_15: Closures
 
-- Understand and create closures in javascript.
-- Use closures to maintain private state and create encapsulated modules.
+- Understand and create `closures` in javascript.
+- Use closures to maintain private state and create `encapsulated` modules.
 - Apply closures in practical scenarios like genrating unique Ids and memoization.
-- Use closures in loops to capture and use variables correctly.
+- Use `closures in loops` to capture and use variables correctly.
+
+## Day_16: Recursion
+
+- Understand and implement basic recursion.
+- Apply recursion to solve problems with arrays and strings.
+- Use `recursion` for searching and counting elements in arrays.
+- Perform tree traversal and calculate tree depth using recursion (optional)
