@@ -118,5 +118,16 @@
 
 - Understand and implement basic recursion.
 - Apply recursion to solve problems with arrays and strings.
-- Use `recursion` for searching and counting elements in arrays.
+- Use `Recursion` for searching and counting elements in arrays.
 - Perform tree traversal and calculate tree depth using recursion (optional)
+
+## Day_17: DATA Structures
+
+- Implement and use `Linked Lists` for dynamic data storage.
+- Use stacks for `LIFO` (Last -in -first-out) operations and reverse data.
+- Use queues for `FIFO` (First- in -first-out) operation and simulate real-world scenarios
+- Implement `Binary Trees` for hirarchical data storage and traversal.
+- Understand and use `Graphs` for network representations and pathfinding(optional).
+
+## Day_18: Algorithms
+
