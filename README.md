@@ -131,3 +131,8 @@
 
 ## Day_18: Algorithms
 
+- Implement and understand common `sorting` algorithms.
+- Implement and understand common `searching` algorithms.
+- solve string manipulation problems using algorithms.
+- Perform array operations using algorithms.
+- Apply `dynamic programming` to solve complex problems(optional).
