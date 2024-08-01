@@ -143,4 +143,11 @@
 - Use character classes and quantifieres in regular expressions.
 - Implement grouping and capturing in regular expressions.
 - Apply assertions and boundaries in regular expressions.
-- Use regular expressions for practical application like validating passwords and URLs
+- Use regular expressions for practical application like validating passwords and URLs.
+
+## Day_20: LocalStorage and SessionStorage.
+
+- Understand how to use `LocalStorage` and SessionStorage for persistent and session-specific data storage.
+- `Save`, `retrieve`, and `remove` data form both localStorage and `SessioStorage`.
+- Implement from data storage using LocalStorage and sessionStorage.
+- Compare and contrast the use cases for localStorage and SessionStorage.

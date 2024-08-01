@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LocalStorage and SessionStorage</title>
+  <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    .form-container {
+        margin-bottom: 20px;
+    }
+</style>
+</head>
+<body>
+  <!-- Task 3 -->
+  <div class="form-container">
+    <h1>User Information</h1>
+    <form id="userForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+        <button type="submit">Save</button>
+    </form>
+</div>
+<div id="userData">
+    <h2>Saved User Information</h2>
+    <p id="displayName"></p>
+    <p id="displayEmail"></p>
+</div>
+
+<!-- Task 4 -->
+
+<h1>LocalStorage Item Removal</h1>
+<button id="removeItem">Remove Item</button>
+
+<!-- Task 5 -->
+
+<h1>SessionStorage Example</h1>
+<button id="saveValue">Save Value</button>
+<button id="retrieveValue">Retrieve Value</button>
+
+<!-- Task 6 -->
+
+<h1>SessionStorage Object Example</h1>
+<button id="saveObject">Save Object</button>
+<button id="retrieveObject">Retrieve Object</button>
+
+<!-- Task 7 -->
+
+<div class="form-container">
+  <h1>User Information Form</h1>
+  <form id="userForm">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      <br><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      <br><br>
+      <button type="submit">Submit</button>
+  </form>
+</div>
+<div id="userData">
+  <h2>Saved User Information</h2>
+  <p id="displayName"></p>
+  <p id="displayEmail"></p>
+</div>
+
+<!-- Task 8 -->
+
+<h1>SessionStorage Removal Example</h1>
+<button id="removeItems">Remove Item</button>
+
+<!-- Task 9 -->
+
+<h1>Storage Example</h1>
+<button id="storeAndRetrieve">Store and Retrieve Data</button>
+
+<!-- Task 10 -->
+ 
+<h1>Clear Storage Example</h1>
+<button id="clearStorages">Clear All Storage</button>
+<button id="verifyStorages">Verify Storage</button>
+
+  <script src="Script.js"></script>
+</body>
+</html>
